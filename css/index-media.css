@@ -1,0 +1,32 @@
+@media (max-width: 1050px){
+  .header-img, .image-main-first, .image-main-second{
+    width: 440px;
+  }
+}
+
+@media (max-width: 838px){
+  .header-img{
+    display: none;
+  }
+  .welcome-info{
+    width: 600px;
+  }
+  .main-info, .main-info-second{
+    justify-content: center;
+  }
+  .main-img{
+    display: none;
+  }
+  .main-text-first{
+    text-align: center;
+  }
+  .main-button{
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 609px){
+  .logo, .footer-icons-block{
+    margin-bottom: 10px;
+  }
+}

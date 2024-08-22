@@ -1,0 +1,9 @@
+@media (max-width: 609px){
+  .logo, .footer-icons-block{
+    margin-bottom: 10px;
+  }
+  .img{
+    width: 400px;
+    height: 250px;
+  }
+}
